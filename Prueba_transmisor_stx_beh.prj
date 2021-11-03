@@ -1,0 +1,2 @@
+vhdl isim_temp "UART.vhd"
+vhdl isim_temp "Prueba_transmisor.vhd"

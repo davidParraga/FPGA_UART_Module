@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/david/Desktop/88/UART/Prueba_transmisor_isim_beh.exe" -prj "C:/Users/david/Desktop/88/UART/Prueba_transmisor_beh.prj" "work.Prueba_transmisor" 

@@ -1,0 +1,28 @@
+Command line:
+   Prueba_transmisor_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50309
+
+Mon Jul 08 17:08:22 2019
+
+
+ Elaboration Time: 0.125 sec
+
+ Current Memory Usage: 5335.08 Meg
+
+ Total Signals          : 27
+ Total Nets             : 52
+ Total Signal Drivers   : 21
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 14
+ Total Traceable Variables  : 14
+ Total Scalar Nets and Variables : 536
+
+ Total Simulation Time: 0.703125 sec
+
+ Current Memory Usage: 4705.93 Meg
+
+Mon Jul 08 18:18:50 2019
+
