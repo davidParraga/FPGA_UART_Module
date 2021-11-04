@@ -39,5 +39,6 @@ _Download the project and open it in ISE DS 14.7 by clicking "File" > "Open Proj
 ## License 📄
 
 These files are not licensed
+
 ---
-⌨️ with ❤️ by [davidParraga](https://github.com/davidParraga) 😊
+⌨️ with ❤️ by [davidParraga](https://github.com/davidParraga)
