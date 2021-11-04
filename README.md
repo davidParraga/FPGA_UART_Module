@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 # Desing for FPGA of a UART module
-=======
-# Main files
-_"UART.vhd": logic of the project_
->>>>>>> refs/remotes/origin/master
 
 The purpose of the project is the design for FPGA of a Universal Asynchronous Receiver Transmitter that allows the serial transmission/reception data of 8 bits at 9600 bauds. 
 For this purpose, it is required the design in VHDL of a transmitter and receiver module. The functionality of the UART must be validated by means of the corresponding functional 
