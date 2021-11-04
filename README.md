@@ -7,6 +7,7 @@ simulation, designing the appropriate test bench.
 # Main files (to take a look at)
 
 "UART.vhd": Logic of the project
+
 "Prueba_transmisor.vhd": Test bench of the project 
 
 ## Starting 🚀
